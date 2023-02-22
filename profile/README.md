@@ -1,3 +1,5 @@
+### About
+
 The Science and Technology Research Infrastructure for Discovery, Experimentation, and Sustainability (STRIDES) Initiative aims to modernize the biomedical research ecosystem by reducing economic and process barriers to accessing commercial cloud services. To harness the power of the cloud to accelerate biomedical discovery, STRIDES offers customized trainings and promotes best practices designed to help researchers achieve optimal use of cloud-based research technologies.
 
 Data generated via biomedical research continues to outpace the ability to process, store, and analyze in many local environments.
